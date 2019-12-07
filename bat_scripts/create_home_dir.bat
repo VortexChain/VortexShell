@@ -1,0 +1,1 @@
+ssh %~1 mkdir /home/%~2
